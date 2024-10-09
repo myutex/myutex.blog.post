@@ -1,13 +1,19 @@
 ---
-thumbnail: ''
+cover:
+  image:
+    src: 'https://github.com/myutex/myutex.blog.post/assets/images/cover-news.png'
 title: '첫 블로그 포스팅'
-author: '양석순'
-date: '2024-10-09'
+author:
+  name: '양석순'
+  role: 'Team Myutex Fake Engineer'
+date:
+  published: '2024-10-09'
+  updated: '2024-10-09'
 ---
 
 # 첫 블로그 포스팅
 
-안녕하세요! // 테스트 변경
+안녕하세요!
 
 이 블로그의 첫 포스팅에 오신 것을 환영합니다.  
 앞으로 다양한 주제에 대해 이야기하고, 유용한 정보를 공유할 예정입니다.  
