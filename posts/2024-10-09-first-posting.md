@@ -1,7 +1,7 @@
 ---
 cover:
   image:
-    src: 'https://github.com/myutex/myutex.blog.post/assets/images/cover-news.png'
+    src: 'https://raw.githubusercontent.com/myutex/myutex.blog.post/refs/heads/main/assets/images/cover-news.png'
 title: '첫 블로그 포스팅'
 author:
   name: '양석순'
